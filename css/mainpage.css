@@ -28,7 +28,7 @@
     font-style: normal;
 }
 
-.buttonround {  /* THIS SHITS MAKING ME WANNA DIE BRO HELP */
+.buttonround {  
     display: inline-block;
 
     height: 40px;
@@ -174,7 +174,7 @@ a:hover {
 
 
 .mainheader {
-    background: #0d0414 url('https://krnl.ca/css/KX0f3tMOOuvhTu1AAAAAElFTkSuQmCC.webp'); 
+    background: #0d0414 url('photo-1444080748397-f442aa95c3e5.jpg'); 
     padding-top: 24px;
     background-size: cover;
     height: 700px;
@@ -189,7 +189,7 @@ a:hover {
     font: 32px/1.1 'Metropolis-Medium';
     margin-bottom: 5px;
     text-align: center;
-    color: white; /* mmm white on top rip gorg flod */
+    color: white; 
 }
 
 .downloadcontainer {
@@ -198,14 +198,14 @@ a:hover {
     text-align: center!important;
     color: #fff!important;
     flex: 0 0 75%;
-    max-width: 75%; /* DONT ASK ABOUT THIS */
+    max-width: 75%; 
     list-style: none;
     flex-wrap: wrap;
     display: flex;
     position: relative!important;
     margin-bottom: 3rem!important;
     padding-right: .5rem!important;
-    padding-left: .5rem!important; /* THE PADDING BARELY DOES ANYTHING BUT IT HELPS CENTER THE THING */
+    padding-left: .5rem!important; 
 }
 
 .downloadsubcontainer {
